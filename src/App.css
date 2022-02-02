@@ -1,0 +1,21 @@
+.App {
+  font-family: 'Courier New', Courier, monospace;
+  background: #252525;
+  color: #fff;
+  height: 100vh;
+}
+
+.shadw {
+  box-shadow: 2px 2px 10px rgba(255, 255, 255, 0.5);
+}
+#bg_clr {
+  background: #252525;
+  color: #fff;
+}
+.bg_clr {
+  background: #252525;
+}
+
+.strike {
+  text-decoration: line-through;
+}
